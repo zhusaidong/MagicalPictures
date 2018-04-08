@@ -17,3 +17,8 @@
 
 >	apache 无需再配置，项目中已有.htaccess文件
 
+### 预览
+
+http://tool.zhusaidong.cn/MagicalPictures/
+
+![预览](http://tool.zhusaidong.cn/MagicalPictures/)
